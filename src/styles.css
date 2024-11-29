@@ -44,7 +44,7 @@ nav button:hover {
     transform: scale(1.05);
 }
 
-#responsive
+#responsiveness
 @media (max-width: 600px) {
     header {
         text-align: center;
